@@ -40,7 +40,7 @@ $_pendidikan = $_POST['pendidikan'];
       
     </tr>
     <tr>
-      <td colspan="5"><button><a href="index.php">Kembali</a></button></td>
+      <td colspan="5"><button><a href="form.php">Kembali</a></button></td>
     </tr>
   </tbody>
 </table>
